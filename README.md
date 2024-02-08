@@ -4,7 +4,7 @@
 
 
 
-![](https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/read_imagen.jpg)
+![](							https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/read_imagen.jpg)
 
 
 <h2>Introduction:</h2>
@@ -32,24 +32,43 @@ Ante usted se presenta un pequeño proyecto que busca relacionar el ámbito come
 ![](https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/Balanza.png)
 
 <h2>Los sectores productivos españoles. Fortalezas y debilidades:</h2>
-<p> </p>
+<p>Históricamente España ha sido un país de industrialización tardía y frágil debido a la carencia de recursos energéticos que abaratasen el modelo productivo o directamente por problemas para la comercialización de los productos en si. </p>
+<p> Esto se demuestra en la balanza comercial que presenta al día de hoy</p>
+
 
 ![](https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/bse2.png)
-<p> </p>
+
 
 ![]( https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/bse3.png)
-<p> </p>
+
 
 ![](https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/balanza%2C%20sectores%2Cespa%C3%B1a.png )
-<p> </p>
+<p> Vemos que la carencia de recursos energéticos sigue siendo muy importante y hace que la balanza sea deficitaria. Además vemos un rol importante de los productos agropecuarios y del sector automovilistico, ambos elementos muy dependientes de elementos externos que pueden perjudicar enormemente la viabilidad de dichos sectores y que al día de hoy estan enormemente subvencionados y como prueba de ello tenemos a la PAC a nivel europeo y para dedicada al campo y el Plan Estratégico de Apoyo Integral al Sector de la Automoción de carácter nacional y para el sector automovilístico.</p>
+
 
 <h2>El problema energético:</h2>
-<p> </p>
+<p>Con los datos anteriores es interesante pensar que el sector energético sea el más interesante para desarrollar nuestro posible negocio. Además podemos ver en la siguiente tabla que el consumo de energía siempre va en incremento, por lo que el desarrollo de una actividad dentro de este ámbito podría ser interesante. </p>
 
 ![]( https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/Electricidad-espa%C3%B1a.png)
-<p> </p>
+
+<p> Pero, esta gráfica nos demuestra una triste realidad. El sistema económico en el que vivimos solamente tiene una opción que es crecimiento pero viviendo en un planete con unos recursos limitados, nos hace reflexionar sobre otras opciones rentables y sostenibles.</p>
+
 <h2>Creación de un modelo de negocio:</h2>
-<p> </p>
+<p> EL modelo de negocio que quiero desarrollar está dentro de la ideología del "Decrecimiento Económico", una corriente que sostiene que es posible reducir la actividad económica agregada en los países de ingresos altos a la vez que se mantiene e incluso se mejora el grado de desarrollo humano y bienestar. Eso quiere decir menos producción y que esa producción este basada en recurs</p>
+<p> En la siguiente imagen vemos la producción de CO2 a nivel mundial, y ello nos ayuda a entender cuales son los sectores donde podríamos intentar reducir la huella ecológica a la vez que favorecemos el BCE.</p>
 
 ![](https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/CO2%20producci%C3%B3n%20mundial.png )
-<p> </p>
+
+<p>El desarrollar un proyecto de negocio implica desarrollar primeramente un análisis DAFO, donde podremos entender los posibles riesgos y futuros beneficios que nos podemos encontrar en esta aventura empresarial.
+1. Amenazas: el propio sistema será nuestro competidor ya que el llegar a la conclusión de que podemos tener más (tiempo libre, mejor ecosistema y otros elementos no materiales) con menos (elementos materiales).
+2. Debilidad: el desconocimiento de todo lo que hay detrás de este sistema hace que mucha gente tenga miedo a invertir o apostar por un negocio de dichas características.
+3. Fortalezas: nuestra base de producción va a buscar la eficiencia y a solventar problemas que tiene la sociedad de hoy en día como es la gestión de residuos. Se llevaría un proceso de recolección, reciclaje o reacondicinamiento y por último venta de un producto que evite la obsolescencia o la fragilidad.
+4. Oportunidad: cada día más personas apuestan por un sistema económico como este y a la vez los productos al ser de mejor calidad implicarían a la larga un ahorro en las familias.
+
+</p>
+
+![]( https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/DAFO.png )
+
+<p> Todo esto aplicado a la vez a solucionar el problema de la BCE nos hace centrarnos en cuatro sectores diferentes. Sectores que favorecerían la reducción tanto de la producción de CO2 como de la balanza. Estos sectores y son: </p>
+
+![]( https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/Opciones%20de%20negocios.png)
