@@ -59,11 +59,15 @@ Ante usted se presenta un pequeño proyecto que busca relacionar el ámbito come
 
 ![](https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/CO2%20producci%C3%B3n%20mundial.png )
 
-<p>El desarrollar un proyecto de negocio implica desarrollar primeramente un análisis DAFO, donde podremos entender los posibles riesgos y futuros beneficios que nos podemos encontrar en esta aventura empresarial.
-1. Amenazas: el propio sistema será nuestro competidor ya que el llegar a la conclusión de que podemos tener más (tiempo libre, mejor ecosistema y otros elementos no materiales) con menos (elementos materiales).
-2. Debilidad: el desconocimiento de todo lo que hay detrás de este sistema hace que mucha gente tenga miedo a invertir o apostar por un negocio de dichas características.
-3. Fortalezas: nuestra base de producción va a buscar la eficiencia y a solventar problemas que tiene la sociedad de hoy en día como es la gestión de residuos. Se llevaría un proceso de recolección, reciclaje o reacondicinamiento y por último venta de un producto que evite la obsolescencia o la fragilidad.
-4. Oportunidad: cada día más personas apuestan por un sistema económico como este y a la vez los productos al ser de mejor calidad implicarían a la larga un ahorro en las familias.
+<p>El desarrollar un proyecto de negocio implica desarrollar primeramente un análisis DAFO, donde podremos entender los posibles riesgos y futuros beneficios que nos podemos encontrar en esta aventura empresarial.</p>
+
+<p>1. Amenazas: el propio sistema será nuestro competidor ya que el llegar a la conclusión de que podemos tener más (tiempo libre, mejor ecosistema y otros elementos no materiales) con menos (elementos materiales).</p>
+
+<p>2. Debilidad: el desconocimiento de todo lo que hay detrás de este sistema hace que mucha gente tenga miedo a invertir o apostar por un negocio de dichas características.</p>
+
+<p>3. Fortalezas: nuestra base de producción va a buscar la eficiencia y a solventar problemas que tiene la sociedad de hoy en día como es la gestión de residuos. Se llevaría un proceso de recolección, reciclaje o reacondicinamiento y por último venta de un producto que evite la obsolescencia o la fragilidad.</p>
+
+<p>4. Oportunidad: cada día más personas apuestan por un sistema económico como este y a la vez los productos al ser de mejor calidad implicarían a la larga un ahorro en las familias.
 
 </p>
 
