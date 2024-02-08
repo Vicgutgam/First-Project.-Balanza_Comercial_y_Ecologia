@@ -4,7 +4,7 @@
 
 
 
-![](https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/read_imagen.jpg)
+![](							https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/read_imagen.jpg)
 
 
 <h2>Introduction:</h2>
@@ -32,7 +32,7 @@ Ante usted se presenta un pequeño proyecto que busca relacionar el ámbito come
 ![](https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/Balanza.png)
 
 <h2>Los sectores productivos españoles. Fortalezas y debilidades:</h2>
-<p> </p>
+<p> Históricamente España ha sido un país de [industrialización tardía y frágil](https://es.wikipedia.org/wiki/Industria_en_Espa%C3%B1a), debido a la carencia de recursos energéticos que abaratasen el modelo productivo o directamente por problemas para la comercialización de los productos en si. </p>
 
 ![](https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/bse2.png)
 <p> </p>
@@ -53,3 +53,7 @@ Ante usted se presenta un pequeño proyecto que busca relacionar el ámbito come
 
 ![](https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/CO2%20producci%C3%B3n%20mundial.png )
 <p> </p>
+
+![]( https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/DAFO.png )
+
+![]( https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/Opciones%20de%20negocios.png)
