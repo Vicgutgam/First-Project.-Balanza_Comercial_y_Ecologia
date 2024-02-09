@@ -61,7 +61,9 @@ Históricamente España ha sido un país de [industrialización](https://es.wiki
 <p> Pero, esta gráfica nos demuestra una triste realidad. El sistema económico en el que vivimos solamente tiene una opción que es crecimiento pero viviendo en un planete con unos recursos limitados, nos hace reflexionar sobre otras opciones rentables y sostenibles.</p>
 
 <h2>Creación de un modelo de negocio:</h2>
-<p> EL modelo de negocio que quiero desarrollar está dentro de la ideología del "Decrecimiento Económico", una corriente que sostiene que es posible reducir la actividad económica agregada en los países de ingresos altos a la vez que se mantiene e incluso se mejora el grado de desarrollo humano y bienestar. Eso quiere decir menos producción y que esa producción este basada en recurs</p>
+
+EL modelo de negocio que quiero desarrollar está dentro de la ideología del ["Decrecimiento Económico"](https://es.wikipedia.org/wiki/Decrecimiento), una corriente que sostiene que es posible reducir la actividad económica agregada en los países de ingresos altos a la vez que se mantiene e incluso se mejora el grado de desarrollo humano y bienestar. Eso quiere decir menos producción y que esa producción este basada en recurs</p>
+
 <p> En la siguiente imagen vemos la producción de CO2 a nivel mundial, y ello nos ayuda a entender cuales son los sectores donde podríamos intentar reducir la huella ecológica a la vez que favorecemos el BCE.</p>
 
 <p align="center">
