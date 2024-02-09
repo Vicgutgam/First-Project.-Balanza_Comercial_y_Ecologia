@@ -34,7 +34,9 @@ Ante usted se presenta un pequeño proyecto que busca relacionar el ámbito come
   <img src="https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/Balanza.png">
 
  <h2>Los sectores productivos españoles. Fortalezas y debilidades:</h2>
-<p>Históricamente España ha sido un país de industrialización tardía y frágil debido a la carencia de recursos energéticos que abaratasen el modelo productivo o directamente por problemas para la comercialización de los productos en si. </p>
+ 
+Históricamente España ha sido un país de [industrialización](https://es.wikipedia.org/wiki/Industria_en_Espa%C3%B1a) tardía y frágil debido a la carencia de recursos energéticos que abaratasen el modelo productivo o directamente por problemas para la comercialización de los productos en si. 
+
 <p> Esto se demuestra en la balanza comercial que presenta al día de hoy</p>
 
 
