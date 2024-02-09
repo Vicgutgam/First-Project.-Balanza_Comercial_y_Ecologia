@@ -7,7 +7,7 @@
   <img src="https://github.com/Vicgutgam/First-Project.-Balanza-Comercial/blob/main/Im%C3%A1genes/read_imagen.jpg">
 
  
-<h2>Introduction:</h2>
+<h2>Introducción:</h2>
 
 Ante usted se presenta un pequeño proyecto que busca relacionar el ámbito comercial con nuevas ideologías económicas como es el decrecimiento. Para ello se ha visto, siempre desde un punto de vista muy superficial, el balance comercial de España, comparándose con otros países de la zona euro y analizando que sectores son más deficitarios para después intentar interpretar donde podría tener intereses económicos españa para favorecer el desarrollo de empresas dedicadas a dicho ámbito.
 
